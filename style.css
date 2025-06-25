@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 1rem 2rem;
+    background: #0a1a2b;  /* azul oscuro */
+    color: #f0f4f8;       /* blanco suave */
+}
+header h1 {
+    color: #2d9cdb;       /* azul brillante */
+    margin-bottom: 0;
+}
+h2 {
+    color: #56ccf2;       /* azul claro */
+    border-bottom: 2px solid #56ccf2;
+    padding-bottom: 0.3rem;
+}
+a {
+    color: #9be7ff;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+footer {
+    margin-top: 2rem;
+    font-size: 0.8rem;
+    text-align: center;
+    color: #777;
+}
